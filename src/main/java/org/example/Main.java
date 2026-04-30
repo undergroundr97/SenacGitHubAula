@@ -6,7 +6,7 @@ public class Main {
     static void main() {
 qualquer coisa
 
-alteraçao123
+alterawdwaçao123
 456
         }
     }
