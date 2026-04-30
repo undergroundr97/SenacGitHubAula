@@ -6,6 +6,9 @@ public class Main {
     static void main() {
         eu sou o melhor
 
+
+
+                NOVA MUDANÇA NO METODO MAIN HAHAHAHAHHAHAHAHAHAH
                 github e bosta
 
                 mudança
