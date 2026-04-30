@@ -5,13 +5,8 @@ package org.example;
 public class Main {
     static void main() {
 
-        eu sou o melhor
-        nova mudança 2
+alteraçao123
+456
+        }
 
-
-                NOVA MUDANÇA NO METODO MAIN HAHAHAHAHHAHAHAHAHAH
-                github e bosta
-
-
-    }
-
+}
